@@ -40,4 +40,4 @@ The evidence that aliens are real can be seen at:
   4. `country`
   5. `shape`
 
-* An additional function `populateDropdowns()` was written to automatically populate the dropdown menus with unique values for each category.
+* An additional function `populateDropdowns()` was written to automatically populate the dropdown menus with unique values for each category. These options were sorted in ascending order using `d3.ascending` for ease of use when selecting.
