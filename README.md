@@ -13,7 +13,7 @@ To solve this problem, we write code that will create a table dynamically based 
 
 All CSS, JS and images required are under the `static` folder. HTML files are in their respective folders for each level.
 
-The evidence that aliens are real and that the truth is out there: 
+The evidence that aliens are real and that the truth is out there: [UFO Sightings](https://neha-nayeem.github.io/javascript-challenge)
 
 ## Level 1: Automatic Table and Date Search
 
