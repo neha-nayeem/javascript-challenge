@@ -13,9 +13,11 @@ To solve this problem, we write code that will create a table dynamically based 
 
 All CSS, JS and images required are under the `static` folder. HTML files are in their respective folders for each level.
 
+The evidence that aliens are real and that the truth is out there: 
+
 ## Level 1: Automatic Table and Date Search
 
-* Level 1 of the assignment is under the folder: **UFO-level-1**. This contains the `index.html` file, a basic HTML web page that was created to display the dynamic table of UFO sightings. 
+* Level 1 of the assignment is under the folder: **UFO-level-1**. This contains the `index.html` file, a basic HTML web page that was created to display the dynamic table of UFO sightings.  A copf of this HTML file is also placed in the root of the Github repo for a github page.
 
 * Using the UFO dataset that was provided in the form of an array of JavaScript objects, code was written in `app.js` that appends a table to the web page and then adds new rows of data for each UFO sighting.
 
