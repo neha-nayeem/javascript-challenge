@@ -13,8 +13,6 @@ To solve this problem, we write code that will create a table dynamically based 
 
 All CSS, JS and images required are under the `static` folder. HTML files are in their respective folders for each level.
 
-The evidence that aliens are real can be seen at:
-
 ## Level 1: Automatic Table and Date Search
 
 * Level 1 of the assignment is under the folder: **UFO-level-1**. This contains the `index.html` file, a basic HTML web page that was created to display the dynamic table of UFO sightings. 
