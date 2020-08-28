@@ -17,7 +17,7 @@ The evidence that aliens are real can be seen at:
 
 ## Level 1: Automatic Table and Date Search
 
-* Level 1 of the assignment is under the folder: **UFO-level-1**. This contains the `index.html` file, a basic HTML web page that was created to display the dynamic table of UFO sightings.
+* Level 1 of the assignment is under the folder: **UFO-level-1**. This contains the `index.html` file, a basic HTML web page that was created to display the dynamic table of UFO sightings. A copy of this file is also placed in the root folder of the Github repo for creating a Github Page.
 
 * Using the UFO dataset that was provided in the form of an array of JavaScript objects, code was written in `app.js` that appends a table to the web page and then adds new rows of data for each UFO sighting.
 
