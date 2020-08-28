@@ -8,8 +8,8 @@ There is just one tiny problem though... our collection is too large to search t
 
 To solve this problem, we write code that will create a table dynamically based upon our [dataset](/static/js/data.js). We also allow our users to filter the table data for specific values using only JavaScript, HTML, CSS, and D3.js on our web pages. This is done in 2 levels:
 
-### Level 1: Automatic Table and Date Search
-### Level 2: Multiple Search Categories
+* **Level 1: Automatic Table and Date Search** 
+* **Level 2: Multiple Search Categories**
 
 All CSS, JS and images required are under the `static` folder. HTML files are in their respective folders for each level.
 
