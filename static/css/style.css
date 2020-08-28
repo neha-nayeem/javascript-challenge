@@ -1,0 +1,51 @@
+.navbar .navbar-brand {
+    color: #149651 !important;
+    font-size: 24px !important;
+}
+
+.alien-bg-dblue {
+    background-color: #070024;
+}
+
+.alien-bg-blue {
+    background-color: #181c4b;
+}
+
+.alien-bg-lblue {
+    background-color: #12375a;
+}
+
+.alien-bg-dgreen {
+    background-color: #166963;
+}
+
+.alien-bg-green {
+    background-color: #149651;
+}
+
+.alien-text {
+    color: #149651;
+    ;
+}
+
+.footer-text {
+    font-size: 15px;
+}
+
+#ufo-table {
+    color: rgb(209, 212, 211);
+}
+
+.table-head,
+.table-style {
+    border-bottom: 1px solid rgba(31, 1, 43, 0.5);
+    font-size: 15px;
+}
+
+.filter {
+    font-size: 14px;
+}
+
+.form-group .form-control {
+    font-size: 14px;
+}
