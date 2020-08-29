@@ -94,6 +94,7 @@ function populateDropdowns() {
 
 // create a function to update table according to the date input by the user
 function filterTable() {
+
     // Prevent the page from refreshing
     d3.event.preventDefault();
 
@@ -103,12 +104,6 @@ function filterTable() {
     var inputState = $('#state').val();
     var inputCountry = $('#country').val();
     var inputShape = $('#shape').val()
-
-    console.log(inputDate);
-    // console.log(inputCity);
-    // console.log(inputState);
-    // console.log(inputCountry);
-    // console.log(inputShape);
 
     // make a copy of the data for filtering
     var filteredData = data;
@@ -170,7 +165,6 @@ function filterTable() {
     } // else
 
 }; // close function filterTable()
-
 
 // initially populate the table by default
 resetTable();
